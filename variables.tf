@@ -1,4 +1,4 @@
-variable "aws_region" {
+variable "gi" {
   default = "us-west-1"
 }
 
